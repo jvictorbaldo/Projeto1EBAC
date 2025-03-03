@@ -32,9 +32,9 @@ O script `calculadora.sh` é uma calculadora interativa que solicita o nome do u
 4. Siga as instruções na tela.
 
  	**Exemplos de saída**
-
-Digite o seu nome para iniciar: João
-Seja Bem-vindo(a) à nossa calculadora João!
+   ```bash
+   Digite o seu nome: João
+   Seja Bem vindo a nossa calculadora!
 
 ___
 
