@@ -47,7 +47,12 @@ Certifique-se de que o arquivo Modulo1Pratico.py está funcionando corretamente 
 
 Para encerrar a calculadora, siga as instruções apresentadas no programa.
 
+
+
 ___
+
+
+
 # Documentação da Calculadora Python
 
 ## Descrição
