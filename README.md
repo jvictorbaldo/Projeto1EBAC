@@ -16,7 +16,7 @@ O script `calculadora.sh` é uma calculadora interativa que solicita o nome do u
 ## Como Executar o Script
 
 1. **Abra um terminal.**
- 
+
 2. **Navegue até o diretório onde o arquivo `calculadora.sh` está localizado.** 
    Use o comando:
 	cd /caminho/do/diretorio
