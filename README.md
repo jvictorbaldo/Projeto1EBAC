@@ -34,7 +34,7 @@ O script `calculadora.sh` é uma calculadora interativa que solicita o nome do u
  	**Exemplos de saída**
    ```bash
    Digite o seu nome: João
-   Seja Bem vindo a nossa calculadora!
+   Seja Bem-vindo(a) à nossa calculadora João!
 
 ___
 
