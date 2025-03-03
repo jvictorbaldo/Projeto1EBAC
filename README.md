@@ -29,8 +29,6 @@ O script `calculadora.sh` é uma calculadora interativa que solicita o nome do u
    ```bash
    ./calculadora.sh
 
-
-
 4. Siga as instruções na tela.
 
  	**Exemplos de saída**
