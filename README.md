@@ -25,7 +25,11 @@ O script `calculadora.sh` é uma calculadora interativa que solicita o nome do u
    cd /caminho/do/diretorio
 
 3. Execute o script com o seguinte comando:
-	./calculadora.sh
+
+   ```bash
+   ./calculadora.sh
+
+
 
 4. Siga as instruções na tela.
 
