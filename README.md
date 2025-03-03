@@ -36,7 +36,7 @@ ___
 # Notas Finais
 
 Dê permissão de execução ao script (se ainda não tiver feito isso):
- Comando: chmod +x calculadora.sh
+	Comando: chmod +x calculadora.sh
 
 Certifique-se de que o arquivo Modulo1Pratico.py está funcionando corretamente antes de executar o script.
 
